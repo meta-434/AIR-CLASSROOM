@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
-<troubleshooting id="trouble_xrb_gn1_1y">
-  <title></title>
+<troubleshooting id="tr-natural">
+  <title>Troubleshooting Natural Issues</title>
   <troublebody>
     <condition>
-      <p></p>
+      <p>The power is out in the building or a (flood / tornado / heavy snow / severe t-storm / etc.) warning has been issued.</p>
     </condition>
     <troubleSolution>
-      <cause>
-        <title></title>
-        <p></p>
-      </cause>
+      
       <remedy>
-        <responsibleParty></responsibleParty>
+        
         <steps-unordered>
           <step>
-            <cmd></cmd>
+            <cmd>Follow the "Secure in Place" steps posted on the wall of the classroom.</cmd>
+            <info>If the event is sever enough to warrant a University Response, an alert will be issued over all loudspeakers on campus.</info>
           </step>
+          
         </steps-unordered>
       </remedy>
     </troubleSolution>

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_jnr_tm1_1y">
-    <title></title>
+<task id="ta-wifi">
+    <title>How to Access VT WiFi</title>
     <shortdesc/>
     <taskbody>
         <context>
-            <p></p>
+            <p>All computers provided by the classroom rental have hardwired internet. However, if you'd like to use your own computer, follow these steps to access Virginia Tech's wireless network temporarily.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>On the device of your choice, connect to the "eduroam" wireless network.</cmd>
+            </step>
+            <step>
+                <cmd>Open a web browser and navigate to "vt.edu"</cmd>
+                <stepresult>You will be redirected to the VT Wireless landing page. </stepresult>
+            </step>
+            <step>
+                <cmd>On the landing page you are redirected to, click "guest access" and enter "airclassroom" into the text box.</cmd>
+                <stepresult>You now have access to the eduroam wireless network for two hours.</stepresult>
+                <steptroubleshooting>If your network connection drops because you have been using eduroam for more than two hours, simply repeat the above steps to renew your connection.</steptroubleshooting>
             </step>
         </steps>
     </taskbody>

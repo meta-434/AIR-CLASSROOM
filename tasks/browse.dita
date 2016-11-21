@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_jbv_1n1_1y">
-  <title></title>
-  <body>
-    <p></p>
-  </body>
-</topic>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="ta-browse">
+    <title>How to Preview and Browse Classroom Spaces on AirClassroom</title>
+    <shortdesc>In order to have the best experience on AirClassroom, finding the ideal space is crucial.</shortdesc>
+    <taskbody>
+        <context>
+            <p>The AirClassroom site has several filters that let you narrow your results to more accurately match your preferences.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>On the main page, enter your zip code and date of rental.</cmd>
+                <info>You should see a listing of all available spaces for your selected date and location.</info>
+            </step>
+            <step>
+                <note>On the left side of the screen, there's a set of drop-down menus that function as filters.</note>
+                <cmd>Select any number of filters according to your preferences, and the site will automatically update to only show spaces that fulfill all of your preferences.</cmd>
+                <stepxmp>For example, filter by projector availability. If you select "yes" from the drop-down menu, your list of spaces will shrink to only include those that have a projector available for use.</stepxmp>
+            </step>
+            <step>
+                <cmd>Click on a listing that you think is a good fit for what you're looking for.</cmd>
+            </step>
+            <step>
+                <cmd>Browse the room's listing page to get an idea of what it's like.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the left and right arrows below the image in the center to scroll through all of the images of that particular space.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Scroll down the page to see the specifications listing, where you can double check a space's amentites you may not be able to see from the pictures alone.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <topicref href="topics/student.dita">
+  
+  <topicref href="tasks/browse.dita"/>
+  <topicref href="tasks/reserve.dita"/>
+  <topicref href="tasks/unlock.dita"/>
+  <topicref href="tasks/leave.dita"/>
+  <topicref href="tasks/doccam.dita"/>
+  <topicref href="tasks/instructor.dita"/>
+  <topicref href="tasks/projector.dita"/>
+  
+ </topicref>
+</map>

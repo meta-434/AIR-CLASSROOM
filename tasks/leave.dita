@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="topic_jbv_1n1_1y">
-  <title></title>
-  <body>
-    <p></p>
-  </body>
-</topic>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yqp_nvd_1y">
+    <title>How to Leave the Classroom</title>
+    <shortdesc>The proper protocol for leaving the classroom</shortdesc>
+    <taskbody>
+        <context>These steps need to be followed exactly, otherwise the renter will be charged a
+            surcharge equal to 10% of the total rental cost of the classroom, per infraction.
+            Evidence of infractions will be emailed to the address associated with the account used
+            to make the payment.<p/></context>
+        <steps>
+            <step>
+                <cmd>Log off of instructor computer, if used.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off document camera, if used.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off projector, if used.</cmd>
+            </step>
+            <step>
+                <cmd>Turn off all lights in the classroom.</cmd>
+            </step>
+            <step>
+                <cmd>Gather all personal belongings-- AirClassroom takes no responsibility for lost or stolen items.</cmd>
+            </step>
+            <step>
+                <cmd>Exit the classroom no later than 15 minutes after your rental end time. </cmd>
+                <info>Once 15 minutes after your rental time ends has passed, your code will no longer open the door. People inside the room 15 minutes after the rental deadline are locked in the room and need to check the technical emergency page to find the correct point of contact to unlock the room. A locked room will incur a surcharge equal to 100 percent of your rental price, or $50, whichever is lower.</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

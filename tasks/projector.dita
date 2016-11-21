@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_jnr_tm1_1y">
-    <title></title>
-    <shortdesc/>
+<task id="ta-projector">
+    <title id="title">How to Use the Projector</title>
+    
+    <shortdesc>The projector is used to display a variety of things on the large screen at the front of the classroom.</shortdesc>
+    
     <taskbody>
         <context>
-            <p></p>
+            <image href="projector.jpg"/>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd id="step1">Locate the remote that has the words "SANYO" on it. This remote is the only way to turn the projector on.</cmd>
+                <stepxmp>
+                    <image id="img1" href="remote.jpg"/>
+                </stepxmp>
+            </step>
+            <step>
+                <cmd id="step2">Press the large red button at the top right of the remote labled "ON/STANDBY" once.</cmd>
+                <info id="info2">The buttons on the remote labeled "computer","video", "s-video", and
+                    "component" are to switch between input sources.</info>
+                <stepresult id="res2">The screen will slowly begin to project a blue image. The screen will be at full display clarity after about 20 seconds.</stepresult>
+                
             </step>
         </steps>
     </taskbody>

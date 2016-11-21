@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_jnr_tm1_1y">
-    <title></title>
-    <shortdesc/>
+<task id="ta-camera">
+    <title>How to Use the Document Camera</title>
+    <shortdesc>Instructions for How to use the document camera</shortdesc>
+    
     <taskbody>
         <context>
-            <p></p>
+            <image href="doccam.jpg"/>
+            <p>The document camera allows the user to project whatever document the camera sees onto the projector.</p>
+            
         </context>
+        
         <steps>
+          
             <step>
-                <cmd></cmd>
+                <cmd>Turn the projector on.</cmd>
+                
+                <substeps>
+                    <substep>
+                        <cmd conref="projector.dita#ta-projector/step1"/>
+                        <stepxmp>
+                            <image conref="projector.dita#ta-projector/img1"/>
+                        </stepxmp>
+                    </substep>
+                    <substep>
+                        <cmd conref="projector.dita#ta-projector/step2"/>
+                        <info conref="projector.dita#ta-projector/info2"/>
+                        <stepresult conref="projector.dita#ta-projector/res2"/>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Press the "s-video" button on the remote for the projector.</cmd>
+            </step>
+            <step>
+                <cmd>Press the power button on the document camera.</cmd>
+                <stepresult>The screen will flicker, and eventually you'll get a live feed of what the document camera sees.</stepresult>
             </step>
         </steps>
+
     </taskbody>
+    
 </task>

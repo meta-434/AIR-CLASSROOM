@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_jnr_tm1_1y">
-    <title></title>
+<task id="ta-instructor">
+    <title>How to Use the Instructor Computer</title>
     <shortdesc/>
     <taskbody>
         <context>
-            <p></p>
+            <p>The instructor computer is used in conjunction with the projector in order to display a computer screen to the class. </p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Turn the projector on.</cmd>
+                
+                <substeps>
+                    <substep>
+                        <cmd conref="projector.dita#ta-projector/step1"/>
+                        <stepxmp>
+                            <image conref="projector.dita#ta-projector/img1"/>
+                        </stepxmp>
+                    </substep>
+                    <substep>
+                        <cmd conref="projector.dita#ta-projector/step2"/>
+                        <info conref="projector.dita#ta-projector/info2"/>
+                        <stepresult conref="projector.dita#ta-projector/res2"/>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Ensure the instructor computer is on. Press the spacebar to wake the computer.</cmd>
+                <stepresult>The screen will wake and you will be presented with Mac OS login screen.</stepresult>
+            </step>
+            <step>
+                <cmd>Enter the Login Credentials</cmd>
+                    <stepxmp>The username is "guest".</stepxmp>
+                    <stepxmp>The password is "12345678"</stepxmp>
+            </step>
+            <step>
+                <cmd>Press Enter</cmd>
+                <stepresult>You now have access to the instructor computer, and whatever is visible on the instructor computer is visible on the projector screen.</stepresult>
             </step>
         </steps>
     </taskbody>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
-<troubleshooting id="trouble_xrb_gn1_1y">
-  <title></title>
+<troubleshooting id="tr-general">
+  <title>Troubleshooting General Emergencies</title>
   <troublebody>
     <condition>
-      <p></p>
+      <p>There is presently an emergency</p>
     </condition>
     <troubleSolution>
-      <cause>
-        <title></title>
-        <p></p>
-      </cause>
+     
       <remedy>
-        <responsibleParty></responsibleParty>
+        
         <steps-unordered>
           <step>
-            <cmd></cmd>
+            <cmd>Call the appropriate emergency services / authorities.</cmd>
+            <info>Emergency Action Protocol for normal emergencies does not change for AirClassroom renters.</info>
           </step>
         </steps-unordered>
       </remedy>

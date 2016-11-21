@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_jnr_tm1_1y">
-    <title></title>
+<task id="ta-unlock">
+    <title>How to Access Your Space</title>
     <shortdesc/>
     <taskbody>
         <context>
-            <p></p>
+            <image href="keypad.jpg" height="400px" width="250px"/>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Check your email inbox for a reciept of payment from AirClassroom</cmd>
+            </step>
+            <step>
+                <cmd>Scroll past the receipt portion of the email</cmd>
+                <stepresult>Your one-time room activation code is listed below the receipt portion of the email.</stepresult>
+            </step>
+            <step>
+                <cmd>At the keypad, punch in the numbers as listed on the email, then press enter.</cmd>
+                <info>Your keycode will be allow you to access the space 15 minutes before and after your rental time. </info>
             </step>
         </steps>
     </taskbody>

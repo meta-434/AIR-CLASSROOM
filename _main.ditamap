@@ -11,8 +11,6 @@
   </topicmeta> 
  </keydef>
  
- <!-- Declare here any keys you need for the project -->
- 
  <topichead navtitle="General">
   
   <topicref href="topics/general.dita" />
@@ -21,20 +19,20 @@
  
  <topichead navtitle="For Professionals">
   
-  <topicref href="topics/professional.dita" >
-   <topicref href="topics/owner.dita"/>
-   <topicref href="topics/employee.dita"/>
-  </topicref>
+  <mapref href="professional.ditamap"/>
   
  </topichead>
  
  <topichead navtitle="For Students">
-  <topicref href="topics/student.dita" />
+  
+  <mapref href="student.ditamap"/>
+  
  </topichead>
  
  <topichead navtitle="Troubleshooting">
-  <topicref href="topics/faq.dita"/>
+  
   <mapref href="troubleshooting.ditamap"/>
+  
  </topichead>
  
 </map>
