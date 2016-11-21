@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="faq">
+ <title>Frequently Asked Questions and Troubleshooting Steps</title>
+ 
+ <topicref href="topics/faq.dita"/>
+ 
+ <topicref href="troubleshooting/emergency.dita"/>
+ <topicref href="troubleshooting/technical.dita"/>
+ <topicref href="troubleshooting/natural.dita"/>
+</map>

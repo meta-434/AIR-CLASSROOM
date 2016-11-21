@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>AirClassroom</title>
+ 
+ <keydef keys="product-name"> 
+  <topicmeta>
+   <keywords> 
+   <keyword>AirClassroom</keyword>
+  </keywords> 
+  </topicmeta> 
+ </keydef>
+ 
+ <!-- Declare here any keys you need for the project -->
+ 
+ <topichead navtitle="General">
+  
+  <topicref href="topics/general.dita" />
+  
+ </topichead>
+ 
+ <topichead navtitle="For Professionals">
+  
+  <topicref href="topics/professional.dita" >
+   <topicref href="topics/owner.dita"/>
+   <topicref href="topics/employee.dita"/>
+  </topicref>
+  
+ </topichead>
+ 
+ <topichead navtitle="For Students">
+  <topicref href="topics/student.dita" />
+ </topichead>
+ 
+ <topichead navtitle="Troubleshooting">
+  <topicref href="topics/faq.dita"/>
+  <mapref href="troubleshooting.ditamap"/>
+ </topichead>
+ 
+</map>
