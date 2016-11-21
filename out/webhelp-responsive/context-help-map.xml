@@ -2,10 +2,12 @@
 <map>
    <appContext helpID="to-general_intro" path="topics/general.html"/>
    <appContext helpID="to-professional_intro" path="topics/professional.html"/>
+   <appContext helpID="to-owner_intro" path="topics/owner.html"/>
    <appContext helpID="ta-browse" path="tasks/browse.html"/>
    <appContext helpID="to-reserve" path="tasks/reserve.html"/>
    <appContext helpID="ta-unlock" path="tasks/unlock.html"/>
    <appContext helpID="task_yqp_nvd_1y" path="tasks/leave.html"/>
+   <appContext helpID="to-employee_intro" path="topics/employee.html"/>
    <appContext helpID="ta-camera" path="tasks/doccam.html"/>
    <appContext helpID="ta-instructor" path="tasks/instructor.html"/>
    <appContext helpID="ta-projector" path="tasks/projector.html"/>

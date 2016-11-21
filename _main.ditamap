@@ -19,7 +19,12 @@
  
  <topichead navtitle="For Professionals">
   
-  <mapref href="professional.ditamap"/>
+  <topicref href="topics/professional.dita" >
+  
+   <mapref href="owner.ditamap"/>
+  
+   <mapref href="employee.ditamap"/>
+  </topicref>
   
  </topichead>
  
