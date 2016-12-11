@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-rental_guidelines">
+  <title> Rental Guidelines</title>
+  <shortdesc>
+    Now that we have added rental services to our business model through AirClassroom, we
+    find that it is important to give guidelines for usage when one of our three products is rented
+    out. We ask that before renting, you read these guidelines carefully, making sure that you
+    adhere to the rules that we have implemented for the safety of the product and the consumer. The
+    products are all located at the front of the classroom, and you will be required to enter your
+    specific 4-digit PIN in order to unlock access to your desired product.
+  <image
+    href="Passcode-Apple-TV-Purchases-1024x576.png" width="500" height="300">
+    <alt>That PIN will be provided to you after purchase through the app.</alt>
+  </image> 
+  </shortdesc>
+  <body>
+    <section>
+    <title>Things to keep in mind...</title>
+    <p>These are expensive devices and they must be handled with the utmost care. Please adhere to
+      the afformentioned Class Rules Page for any questions on how to behave while using the rented
+      laptops, cameras or iPads.</p>
+    </section>
+    <section>
+    
+    <title>Do's and Don'ts</title> 
+    <ol>
+      <li><p>DO NOT handle the devices loosely or carelessly. Once your device has been unlocked and is out of
+          the provided protective casing, it is entirely under your care and responsibility. </p></li>
+      <li>
+        <p>If the device must leave the classroom, be sure to keep it away from food or drink that
+          could possibly spill and damage the item.<image href="Office-Sign-NHE-18602_1000.gif"
+            width="300" height="300"/></p>
+      </li>
+      <li>
+        <p>ONLY the renter and students/people under the reservation may use the equipment. No
+          outside persons may handle the equipment without first contacting AirClassroom
+          Support.</p>
+      </li>
+      <li>
+        <p>Unless requested specifically, the device being rented must be returned at or before the
+          allotted rental time period. Failure to return the device in time will result in a $10 fee
+          for each additional hour of use.</p>
+      </li>
+      <li>
+        <p>ALWAYS return the device in its provided protective covering. </p>
+        <p><!--The iPad comes with a magnetic screen covering, the laptop comes in a padded laptop sleeve and the camera includes in a standard protective bag--></p>
+      </li>
+    </ol>
+    </section>
+  </body>
+  
+</topic>

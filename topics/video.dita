@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_mc1_pgt_fy">
+  <title>Introductory Video + Projector Tips</title>
+  <body>
+    <object width="425" height="349" type="application/x-shockwave-flash" data="http://www.youtube.com/v/ZuNNhOEzJGA&hl=fr&fs=1&rel=0&color1=0x006699&color2=0x54abd6&border=1">
+      <p>Interview of Philippe Le Hégaret about Video codec</p>
+      <param name="movie" value="http://www.youtube.com/v/ZuNNhOEzJGA&hl=fr&fs=1&rel=0&color1=0x006699&color2=0x54abd6&border=1" />
+    </object>
+  </body>
+</topic>
