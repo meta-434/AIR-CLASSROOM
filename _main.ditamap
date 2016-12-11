@@ -34,6 +34,10 @@
   
  </topichead>
  
+ <topichead navtitle="Rentals">
+   <mapref href="rentals.ditamap"/>
+ </topichead>
+ 
  <topichead navtitle="Troubleshooting">
   
   <mapref href="troubleshooting.ditamap"/>

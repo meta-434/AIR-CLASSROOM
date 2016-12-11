@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-tripod">
+  <title>How to Set the Camera on a Tripod</title>
+  <shortdesc>These instructions will show you how to mount the camera on a tripod for increased
+    stability </shortdesc>
+  <body>
+    <section>
+      <title>Before you begin:</title>
+      <ul>
+        <li><p>Camera</p></li>
+        <li><p>Tripod</p></li>
+        <li><p>Tripod Bag</p></li>
+        <li><p>Tripod Pads</p></li>
+        <li><p>Camera Tripod Cover</p></li>
+        <li><p>Tripod Top Cover</p></li>
+      </ul>
+    </section>
+    <section>
+      <title>Steps</title>
+      <ol>
+        <li><p>Put the camera on a safe surface before handling the tripod</p></li>
+        <li><p>Unzip the tripod out of its bag</p></li>
+        <li><p>Locate the three tripad pads</p></li>
+        <li><p>Secure the three pads on the bottom of the three legs</p>
+          <p>This will make sure the tripod stays stable on the ground</p></li>
+        <li><p>Take off the tripod top cover as this will reveal the screw formation on top</p>
+          <p><image href="tripodtop.jpg" height="200" width="300"></image></p></li>
+        <li><p>Put the tripod top cover and tripod bag in a clear and safe location</p></li>
+        <li><p>Locate the bottom of the camera and its tripod cover</p></li>
+        <li><p>Unscrew the tripod cover from the camera gently</p>
+          <p>Be careful and hold the camera tightly with the other hand in order to not drop it</p></li>
+        <li><p>Put the tripod cover in a clear and safe location</p></li>
+        <li><p>Sit down with the tripod and the camera</p>
+          <p>Sitting is highly recommended to make sure no equipment is ruined from being dropped
+            from standing height</p></li>
+        <li><p>Screw the tripod's top into the camera's tripod hole</p></li>
+        <li><p>Hold the setup (tripod and camera) with both hands as you unfold the legs of the tripod</p></li>
+        <li><p>Set up your tripod in a location for the best angle for your shot</p></li>
+        <li><p>Use the camera and tripod to take stable pictures</p></li>
+      </ol>
+    </section>
+    <section>
+      <title>Results</title>
+      <p><image href="cameratripod.png" height="400" width="250"></image></p>
+    </section>
+  </body>
+</topic>

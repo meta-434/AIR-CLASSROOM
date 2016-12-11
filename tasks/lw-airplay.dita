@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-ipad_airplay">
+  <title>How to use AirPlay to Display an iPad Screen on the Projector</title>
+  <shortdesc>These instructions will guide you through the process of displaying the contents of your rental iPad on the projector screen in your rental classroom.</shortdesc>
+  <body>
+    <section>
+      <title>Before you begin:</title>
+      <ol>
+        <li><p>Turn on the instructor computer and the classroom projector.</p></li>
+      </ol>
+      <ul>
+        <li><p>Follow the instructions for turning on the classroom projector and instructor computer according to your skill level by using the navigation bar at the top of the screen.</p></li>
+        <li><p>Make sure your iPad is unlocked, and set up to use paid pre-loaded apps.</p></li>
+        <!-- conrefs didn't work with sections- I don't know the "generalizations" of a given attribute / how to refer to a DITA XML element in xDITA -->
+      </ul>
+    </section>
+    <section>
+      <title>Steps</title>
+      <p>Once you have the instructor computer on, classroom projector on, and your iPad set up, these instructions below will allow you to share your iPad screen the with projector.</p>
+      <ol>
+        <li><p>Swipe up from the bottom of your iPad to access the settings menu.</p>
+            <p><image href="control_center.jpg"></image></p></li>
+        <li><p>Press the "AirPlay" button at the bottom of the Control Center drawer.</p></li>
+        <li><p>Locate the device "instructor" and select it for AirPlay streaming. (It'll look similar to this)</p>
+          <p><image href="select_device.PNG"/></p></li>
+        <li><p>Congratulations! Your iPad is now mirrored onto the projector. Please note that during this airplay process, the instructor computer is rendered inoperable. In order to remove iPad mirroring, simply turn off the ipad's screen, and the connection will be cut. </p></li>
+        
+      </ol>
+    </section>
+    
+  </body>
+</topic>

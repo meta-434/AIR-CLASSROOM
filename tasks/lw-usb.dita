@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="t-laptop_USB">
+  <title>How to Transfer a Document to the Laptop with USB</title>
+  <shortdesc>These instructions will show you how to tranfer documents onto the laptop directly from
+    a USB</shortdesc>
+  <body>
+    <section>
+      <title>Before you begin:</title>
+      <ul>
+        <li><p>Laptop</p></li>
+        <li><p>Laptop Power Cord</p></li>
+        <li><p>USB Drive (with document already uploaded)</p></li>
+        <li><p>Electrical Socket (in wall)</p></li>
+      </ul>
+    </section>
+    <section>
+      <title>Steps</title>
+      <ol>
+        <li><p>Plug in the laptop power cord to the laptop's external power socket</p></li>
+        <li><p>Plug in the plug side of the laptop power cord to the electrical socket</p></li>
+        <li><p>Push the power button on the laptop</p></li>
+        <li><p>Wait for the laptop to start up</p></li>
+        <li><p>Plug in the USB drive in the laptop USB port</p>
+          <p><image href="usb%20port.jpg" height="200" width="200"></image></p></li>        
+        <li><p>Click on "My Computer" on your laptop</p></li>
+        <li><p>Click on "(D:)" or "External Drive" to access files on your USB</p>
+          <p><image href="usb%20drive.JPG"/></p></li>
+        <li><p>Click the document you want in the file and drag it onto the desktop</p></li>
+        <li><p>Click the document now on your desktop</p></li>
+        <li><p>Use the document now located on your desktop</p></li>
+        <li><p>Unplug the USB drive as the document is now on your computer</p>
+          <p>While most USBs nowdays are safe to remove without asking on the computer, check if
+            your USB is a newer model</p>
+          <p>If it is not, right click the USB symbol on the right side of the computer and click
+            "Eject USB Mass Storage Device"</p>
+          <p><image href="removeusb.jpg"></image></p></li>
+      </ol>
+    </section>
+    <section>
+      <title>Results</title>
+      <p><image href="docondesktop.PNG" height="350" width="250"></image></p>
+    </section>
+  </body>
+</topic>

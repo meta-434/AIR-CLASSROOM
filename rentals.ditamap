@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Rentals</title>
+ <topichead navtitle="Rental + Damage protocols">
+  <topicref href="topics/rental.protocol.dita"/>
+  <topicref href="topics/tr.damageprotocol.md" format="markdown" />
+ </topichead>
+ 
+  <mapref href="devices.ditamap"/>
+ 
+</map>

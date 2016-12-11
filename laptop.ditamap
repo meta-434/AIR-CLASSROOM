@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Laptops</title>
+ 
+ <topichead navtitle="Laptops">
+  <topicref href="topics/laptop_info.dita" />
+  <topicref href="tasks/lw-usb.dita" />
+  <topicref href="tasks/hdmi.md" format="markdown"/>
+ </topichead>
+</map>

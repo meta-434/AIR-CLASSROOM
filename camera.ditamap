@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Cameras</title>
+ 
+ <topichead navtitle="Cameras">
+  <topicref href="topics/camera_info.dita"/>
+  <topicref href="tasks/charge.md" format="markdown"/>
+  <topicref href="tasks/lw-tripod.dita" />
+ </topichead>
+</map>
