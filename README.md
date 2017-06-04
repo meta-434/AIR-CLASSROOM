@@ -1,6 +1,5 @@
 ###
-* [hapgood.DITA.airclassroom]
-* AirClassroom Webhelp Deliverable Project
+--hapgood.DITA.airclassroom-- AirClassroom Webhelp Deliverable Project
 
 ###
 ---
