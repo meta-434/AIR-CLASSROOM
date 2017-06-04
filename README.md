@@ -1,7 +1,11 @@
-# hapgood.DITA.airclassroom
+###
+===
+hapgood.DITA.airclassroom
 AirClassroom Webhelp Deliverable Project
 
-###About the project
+###
+---
+About the project
 * This project is a [WebHelp](https://en.wikipedia.org/wiki/Web_help)-styled documentation project.
   * Because the focus of this project was mastering the WebHelp format, the negatives of the format are not addressed.
   * Normally when I create documentation I make formats to be as accessible as possible to different platforms. However, the nature of WebHelp constrains me to internet-capable devices exclusively.
