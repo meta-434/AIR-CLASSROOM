@@ -1,5 +1,4 @@
 ###
-===
 hapgood.DITA.airclassroom
 AirClassroom Webhelp Deliverable Project
 
